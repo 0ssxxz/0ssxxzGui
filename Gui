@@ -1,1 +1,104 @@
+local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local window = kavoUi.CreateLib("0ssxxz Hub","DarkTheme")
+ 
+---Hi
+ 
+local Tab1 = window:NewTab("Main Locks")
+local Tab1Section = Tab1:NewSection("Basic Scripts")
+ 
+--
 
+Tab1Section:NewButton("EarthLock Very Blatant(Key Is Q)", "Use Q Tool For This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/gzFZCnZG", true))()
+end)
+
+
+Tab1Section:NewButton("Cam Lock(Key Is Q)","Use Q Tool For This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/P7E8c7Qu", true))()
+end)
+
+
+Tab1Section:NewButton("RyzzChips","Already Has A Tool", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryzzchips/SubtoRyzzchips/main/Sub%20to%20Ryzzchips%20for%20more%20New%20aimlock%20script!", true))()
+end)     
+
+
+Tab1Section:NewButton("Nyula","Best Lock Gui", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nyulachan/nyula/main/nyulauh"))();
+end)
+
+Tab1Section:NewButton("Blatant Lock(Q Tool)","Best One", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/SkUXFa90"))();
+end)
+
+--Hi
+
+local Tab2 = window:NewTab("Basic IOS Scripts")
+local Tab2Section = Tab2:NewSection("Tools For Mobile Players")
+
+
+Tab2Section:NewButton("Shift Lock", "Use This For AnyThing", function()
+      loadstring(game:HttpGet('https://pastebin.com/raw/WQ9NPeDS'))();
+end)  
+
+
+Tab2Section:NewButton("FakeMacro", "Don't Make It Obvious That It Is Fake", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/fs1t5zRF", true))()
+end)
+
+
+Tab2Section:NewButton("KeyBoard", "For The Gui", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))() 
+end)
+
+Tab2Section:NewButton("Perm Q Tool", "For You Guy On Mobile Can Use This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/CdsZ2AQf", true))()
+end)
+
+
+Tab2Section:NewButton("Q Tool", "For You Guys On Mobile You Can Use This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/LeqtMibN", true))()
+end)
+
+
+Tab2Section:NewButton("C Tool", "For You Guys On Mobile You Can Use This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/5HA4jkUH", true))()
+end)
+
+
+Tab2Section:NewButton("V Tool", "For You Guys On Mobile You Can Use This", function()
+end)
+
+
+Tab2Section:NewButton("A Tool", "For You Guys On Mobile You Can Use This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/yD3DXesd", true))()
+end)
+
+
+Tab2Section:NewButton("P Tool", "For You Guys On Mobile You Can Use This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/T9FMKcxX", true))()
+end)
+
+
+Tab2Section:NewButton("K Tool", "For You Guys On Mobile You Can Use This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/FwW4mMWe", true))()
+end)
+
+
+Tab2Section:NewButton("E Tool", "For You Guys On Mobile You Can Use This", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/XibfhcAy", true))()
+end)
+
+--hi
+
+local Tab3 = window:NewTab("Anti Lock And Aim Viewer")
+local Tab3Section = Tab3:NewSection("Best Anti Lock And Aim Viewer")
+
+
+  Tab3Section:NewButton("Aim Viewer", "Use KeyBoard To Close And Open The Gui ", function()
+     loadstring(game:HttpGet("https://pastebin.com/raw/cEsxvDBn", true))()
+end)
+ 
+Tab3Section:NewButton("Anti Lock(Key Is Z)","Use KeyBoard To Use It", function()
+     loadstring(game:HttpGet(('https://raw.githubusercontent.com/AvianProjects/Dahood/main/AntilockerV2'),true))()
+end)    
